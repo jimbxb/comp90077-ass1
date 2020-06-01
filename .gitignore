@@ -1,0 +1,5 @@
+*.docx
+*.zip
+/test/*
+prog
+assignment1.pdf
